@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T10:51:12.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="C6KTjA-UedsFTmFyhKda" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T11:12:18.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="1bB1H0TWobCflc83ZArN" type="github">
   <diagram id="hBB4oeYtXW0A8xOEEHre" name="ページ1">
-    <mxGraphModel dx="3034" dy="2749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4325" dy="3539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,14 +24,6 @@
         </mxCell>
         <mxCell id="9GC4ff93WPVwGUkIkb3d-19" value="(background.png)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Times New Roman;fontSize=52;" vertex="1" parent="1">
           <mxGeometry x="1350" y="-970" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="9GC4ff93WPVwGUkIkb3d-24" value="canvas" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Times New Roman;fontSize=52;" edge="1" parent="1">
-          <mxGeometry x="1" y="1014" width="80" relative="1" as="geometry">
-            <mxPoint y="-740" as="sourcePoint" />
-            <mxPoint x="80" y="-740" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint x="1000" y="844" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9GC4ff93WPVwGUkIkb3d-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;fontFamily=Times New Roman;fontSize=52;verticalAlign=top;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="-850" width="1450" height="1450" as="geometry" />
